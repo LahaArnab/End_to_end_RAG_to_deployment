@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Agentic RAG (Scalable Pipeline)
 
 A production-grade, enterprise-level RAG system built with **LangGraph**, **Portkey LLM Gateway**, and **Gemini Embeddings**. The system distinguishes between technical "True Data" and random "Noisy Data" using semantic re-ranking, history-aware planning, and NeMo Guardrails for input/output safety.
@@ -168,3 +169,6 @@ streamlit run evals/app.py
 ---
 
 *Built for High-Scale Enterprise Document Intelligence.*
+=======
+# End_to_end_RAG_to_deployment
+>>>>>>> 89443b9b0c685419a687a674141720f917efff00
